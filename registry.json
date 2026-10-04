@@ -3307,17 +3307,83 @@
     "has_system": false
   },
   {
-    "name": "Steinhards-Guide-to-the-Eldrich-Hunt-spells-",
+    "name": "Galdr-Class",
+    "description": "A homebrew class based around hemocraft, where your natural talent in intelligence grants access to dark magics that may be used for good or evil in equal accord.",
+    "tags": [
+      "5e2024",
+      "homebrew",
+      "class",
+      "hemocraft"
+    ],
+    "origin": "homebrew",
+    "systems": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "guyyoudontknowe-byte/Galdr-Class",
+    "repo_url": "https://guyyoudontknowe-byte.github.io/Galdr-Class/",
+    "has_system": false
+  },
+  {
+    "name": "Grim-Hollows-Subclasses",
+    "description": "Subclasses from the grim hollows player guide",
+    "tags": [
+      "5e2024",
+      "subclass"
+    ],
+    "origin": "published",
+    "systems": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "ElHeckerman/Grim-Hollows-Subclasses",
+    "repo_url": "https://ElHeckerman.github.io/Grim-Hollows-Subclasses/",
+    "has_system": false
+  },
+  {
+    "name": "Elementalist-Sorcerer-Subclass",
+    "description": "Just a quick mockup of the Elementalist homebrew class, revised as a Sorcerer subclass.",
+    "tags": [
+      "5e2024",
+      "homebrew",
+      "subclass",
+      "fantasy"
+    ],
+    "origin": "homebrew",
+    "systems": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "Khalte/Elementalist-Sorcerer-Subclass",
+    "repo_url": "https://Khalte.github.io/Elementalist-Sorcerer-Subclass/",
+    "has_system": false
+  },
+  {
+    "name": "DnD-Half-Elf-Aasimar",
+    "description": "just a prototype homebrew race ",
+    "tags": [
+      "5e2024",
+      "fantasy",
+      "homebrew",
+      "race"
+    ],
+    "origin": "homebrew",
+    "systems": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "Death7310/DnD-Half-Elf-Aasimar",
+    "repo_url": "https://Death7310.github.io/DnD-Half-Elf-Aasimar/",
+    "has_system": false
+  },
+  {
+    "name": "Steinhards-Guide-to-the-Eldritch-Hunt-spells",
     "description": "The spells focus on harsh power and Osteomancy with some good debuffing spells inbetween",
     "tags": [
       "5e",
-      "eldrich",
-      "homebrew",
-      "5e2024",
-      "sgtteh",
-      "steinhard"
+      "sgtteh"
     ],
-    "origin": "official",
+    "origin": "published",
     "systems": [
       "5e"
     ],
